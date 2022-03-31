@@ -1,6 +1,8 @@
-Live preview: https://hckkiu.github.io/resume-template/
-
-Images Used: 
+# Resume Website Template  
+  
+Live preview: https://hckkiu.github.io/resume-template/  
+  
+Images Used:  
 https://unsplash.com/photos/9cKVKzUJ6o0  
 https://unsplash.com/photos/uf3Q3DlKi9o  
 https://unsplash.com/photos/r79g5WwWvxc  
