@@ -53,4 +53,6 @@ section {
 .skills-circle {
     width: 15px; 
     height: 15px; 
+    border-radius: 100%;
+    display: inline-block;
 }
