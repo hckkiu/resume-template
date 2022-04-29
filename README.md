@@ -1,5 +1,6 @@
 # Resume Website Template  
-  
+
+![image](resume-template.jpg)
 Live preview: https://hckkiu.github.io/resume-template/  
   
 Images Used:  
